@@ -27,6 +27,9 @@ A fully functional e-commerce frontend built with CSS.
 ### 🏆 [African Nations League – Tournament Management System](https://github.com/Mdaniels201/african-nations-leauge)
 A JavaScript-based system for managing tournament data and fixtures.
 
+### 📱 [V-Mobile Case Study](https://github.com/Mdaniels201/V-Mobile-Case-Study)
+A data analysis case study using Jupyter Notebook — reviewing provided data and deriving findings and insights.
+
 ---
 
 ## 📊 GitHub Stats
