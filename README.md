@@ -1,7 +1,6 @@
 # Hi, I'm Maahier 👋
 
 🎓 BSc IT (Software Engineering) student at Eduvos, Cape Town  
-💼 Aspiring Junior Developer | Full-Stack | Java | JavaScript  
 🚀 Built and deployed live software — including a Google Gemini AI integration  
 🌍 Based in Cape Town, South Africa  
 
